@@ -15,6 +15,6 @@ class sumn
 	{ s=Math.addExact(s,i);
 	}
 	System.out.println("the sum of "+n);
-	System.out.println("natural no is "+s);
+	System.out.println(" no is "+s);
 	}
 }
